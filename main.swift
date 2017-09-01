@@ -1,3 +1,3 @@
-func isCool<T>(val: T) -> Bool{
-    return true
+func isNotCool<T>(val: T) -> Bool{
+    return false
 }
